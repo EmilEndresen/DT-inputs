@@ -5,4 +5,6 @@ form {
 
 div {
     margin-block: 10px;
+    display: flex;
+    flex-direction: column;
 }
